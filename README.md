@@ -13,3 +13,6 @@ I have implemnted 3 popular techniques namely:
 I have also provided explanations in the comments for each technique, which are very easy to understand.
 
 Note: For random cropping I have used the excellent technique mentioned in this answer https://stackoverflow.com/questions/34574714/random-cropping-data-augmentation-convolutional-neural-networks
+
+
+Also note that Data Augmentation is a good technique to combat overfitting but not good enough ,as the synthesized images still have a high amount of correlation
